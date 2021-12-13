@@ -38,11 +38,13 @@ En "src" también encontramos las carpetas de
 El archivo de ejecución se encuentra en la carpeta "src" con el nombre de "index.ts" el cual conecta todos los archivos para la ejecución.
 
 ## Requisitos
-Tener instalado previamente node.js y TypeScript, en caso de no tener instalado TypeScript, ejecutar los siguientes comandos desde consola en su carpeta del archivo 
+Tener instalado previamente node.js y TypeScript, en caso de no tener instalado TypeScript, ejecutar los siguientes comandos desde consola en su carpeta del archivo
 ```
 npi i typescript
 npm i -g ts-node
 ```
+Para instalar las dependencias del proyecto ejectuar "npm i" o "npm install" en la carpeta donde guardo el proyecto 
+
 ## Ejecutar el programa
 Debemos ingresar a la carpeta "src" y ejecutamos el archivo index.ts con el siguiente comando 
 ```
