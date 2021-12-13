@@ -40,7 +40,7 @@ El archivo de ejecución se encuentra en la carpeta "src" con el nombre de "inde
 ## Requisitos
 Tener instalado previamente node.js y TypeScript, en caso de no tener instalado TypeScript, ejecutar los siguientes comandos desde consola en su carpeta del archivo
 ```
-npi i typescript
+npm i typescript
 npm i -g ts-node
 ```
 Para instalar las dependencias del proyecto ejectuar "npm i" o "npm install" en la carpeta donde guardo el proyecto 
